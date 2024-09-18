@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "5c8e5ceff5bb50bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a72fe6fe27c13f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3ddd2fa2db220f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Vault/YouTube/YouTube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f23a5296fafac93e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68423098322419a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec3facab638f060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d697ead5e0d440c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acaddd6f334db560",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad95b1b240467e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf4c99a59805e11",
+        "type": "tabs",
+        "dimension": 66.50853889943073,
+        "children": [
+          {
+            "id": "de8e76f7517fa914",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 Vault/YouTube/YouTube.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "751b5f4a2766e233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 Vault/YouTube/YouTube.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eeaf8b37bd80b9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a555d6458259e6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 Vault/YouTube/YouTube.md"
+              }
+            }
+          },
+          {
+            "id": "70baa12c6d56e73d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3a482203672e1458",
+        "type": "tabs",
+        "dimension": 33.49146110056926,
+        "children": [
+          {
+            "id": "8d65d664f487d122",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "ef3ddd2fa2db220f",
+  "lastOpenFiles": [
+    "04 Vault/YouTube/HealthyGamerGG/HealthyGamerGG.md",
+    "00 NoteLab/YouTube Videos (A-K).md",
+    "00 NoteLab/YouTube Video Clips 📽️.md",
+    "00 NoteLab/YouTube Video Clips 📽️ 2.md",
+    "00 NoteLab/YouTube Video (W-Z).md",
+    "00 NoteLab/YouTube Videos (L-V).md",
+    "04 Vault/YouTube/YouTube.md",
+    "06 Toolkit/Templates/YTV Template.md",
+    "03 Spaces/Canvas Mind Maps/Untitled.canvas",
+    "00 NoteLab/Success.md",
+    "00 NoteLab/Start Small.md",
+    "00 NoteLab/Setting up Stablebit Drivepool.md",
+    "00 NoteLab/Rule Two.md",
+    "00 NoteLab/Rule Six.md",
+    "00 NoteLab/Rule One.md",
+    "00 NoteLab/Changelog.md",
+    "00 NoteLab/Responsibility Inventory.md",
+    "00 NoteLab/Purpose.md",
+    "00 NoteLab/Infinite.md",
+    "00 NoteLab/Happiness.md",
+    "00 NoteLab/Habits.md",
+    "00 NoteLab/Goals.md",
+    "00 NoteLab/12 Rules for Life.md",
+    "00 NoteLab/+ About NoteLab ℹ️.md",
+    "06 Toolkit/Snippets",
+    "04 Vault/YouTube/How to Grow a Youtube Channel - Ali Abdaal.md",
+    "04 Vault/YouTube/Experiencing Love and Joy Instead of Fear and Desire (S3, E5).md",
+    "04 Vault/YouTube/Digital Finance Analytics - Households taken to the cleaners with Tarric Brooker.md",
+    "04 Vault/YouTube/HealthyGamerGG",
+    "06 Toolkit/Images/NoteGPT_MindMap_1723335738600.png",
+    "06 Toolkit/Images/Screenshots/MediaExtended",
+    "06 Toolkit/Images/Screenshots",
+    "06 Toolkit/Images/Book Covers/Be-Useful-Seven-Tools-for-Life-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/be-unstoppable-alden-mills-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/atomic-habits-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/as-a-man-thinketh-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/a-mind-for-numbers-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/a-guide-to-the-good-life-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/15-Invaluable-laws-of-growth-book-cover.jpg",
+    "06 Toolkit/Images/Book Covers/12-Rules-for-Life---Jordan-Peterson-image-250px.jpg",
+    "06 Toolkit/Images/Book Covers/12 Rules for Life - Jordan Peterson image 20240414163314.png",
+    "06 Toolkit/Images/Book Covers",
+    "06 Toolkit/Images/New folder",
+    "04 Vault/Books/Isaiah Hankle PhD",
+    "04 Vault/Books/Arnold Schwarzenegger",
+    "04 Vault/Books/Alden Mills",
+    "04 Vault/Books/James Clear"
+  ]
+}
