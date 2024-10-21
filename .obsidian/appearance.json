@@ -1,4 +1,9 @@
 {
   "cssTheme": "Minimal",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": "#52d6fc",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 18
 }

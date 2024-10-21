@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "770ccdce09a8f1a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c912271c12fc684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcde05537c07778f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Cards/+ About Cards ℹ️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "+ About Cards ℹ️"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad7d5bd427d0b69",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "438e6c5a78aa6682",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7d1c64dc53cac7d3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f079e41bfca3ad77",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "42041d22968c312c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "8667792f95582388",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "888dd40441611daa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dbc2efe8ec46c922",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 Cards/+ About Cards ℹ️.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8072ad20c118f2fc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 Cards/+ About Cards ℹ️.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "52039cbc1eb5fb67",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 Cards/+ About Cards ℹ️.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "556aa5316446a7a7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bcde05537c07778f",
+  "lastOpenFiles": [
+    "00 NoteLab/Command Dashboard.md",
+    "01 MOCs/+ About MOCs ℹ️.md",
+    "04 Vault/YouTube/Digital Finance Analytics - Households taken to the cleaners with Tarric Brooker.md",
+    "00 NoteLab/YouTube Video Clips 📽️.md",
+    "00 NoteLab/Fleeting Notes.md",
+    "00 NoteLab/Changelog.md",
+    "00 NoteLab/+ About NoteLab ℹ️.md",
+    "00 NoteLab/00 NoteLab.md"
+  ]
+}
